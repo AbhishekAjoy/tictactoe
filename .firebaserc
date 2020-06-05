@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-cd2f5": {
+      "hosting": {
+        "tictactoe": [
+          "tictactoe-cd2f5"
+        ]
+      }
+    }
+  }
+}
