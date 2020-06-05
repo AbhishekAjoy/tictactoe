@@ -1,6 +1,9 @@
 # Tictactoe
 
 This is the tic-tac-toe game made with Angular.
+
+https://tictactoe-cd2f5.web.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
