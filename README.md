@@ -6,6 +6,8 @@ https://tictactoe-cd2f5.web.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+![Capture](https://user-images.githubusercontent.com/30285558/90951574-ac3bd700-e479-11ea-813c-810dd7896019.JPG)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
